@@ -1,0 +1,5 @@
+# generated from catkin/cmake/template/order_packages.context.py.in
+source_root_dir = '/home/aurora/project/ros_practise/demo05_ws/src'
+whitelisted_packages = ''.split(';') if '' != '' else []
+blacklisted_packages = ''.split(';') if '' != '' else []
+underlay_workspaces = '/home/aurora/project/vins_ws/devel;/home/aurora/project/ros_practise/CH6/test1/devel;/home/aurora/project/ros_practise/CH5/test2/devel;/home/aurora/project/ros_practise/CH5/test1/devel;/home/aurora/project/ros_practise/CH4/test1/devel;/home/aurora/project/ros_practise/CH3/test2/devel;/home/aurora/project/ros_practise/CH3/test1/devel;/home/aurora/project/catkin_ws3/devel;/opt/ros/melodic'.split(';') if '/home/aurora/project/vins_ws/devel;/home/aurora/project/ros_practise/CH6/test1/devel;/home/aurora/project/ros_practise/CH5/test2/devel;/home/aurora/project/ros_practise/CH5/test1/devel;/home/aurora/project/ros_practise/CH4/test1/devel;/home/aurora/project/ros_practise/CH3/test2/devel;/home/aurora/project/ros_practise/CH3/test1/devel;/home/aurora/project/catkin_ws3/devel;/opt/ros/melodic' != '' else []
